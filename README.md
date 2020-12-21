@@ -1,4 +1,4 @@
-#Weather checking app
+# Weather checking app
 
 ## Running
 ```bash
