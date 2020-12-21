@@ -1,0 +1,11 @@
+version: "3.3"
+
+services:
+  app:
+    build: .
+    ports:
+    - 8080:4567
+    environment:
+     - OPENWEATHER_KEY
+    volumes:
+    - ./configuration.yaml:/app/configuration.yaml:ro

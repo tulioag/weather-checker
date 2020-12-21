@@ -1,0 +1,8 @@
+Dockerfile
+configuration.yaml
+configuration-sample.yaml
+docker-compose.yml
+.git
+*.md
+target
+.idea

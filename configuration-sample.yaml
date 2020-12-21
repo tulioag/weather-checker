@@ -1,0 +1,13 @@
+# Frequency in which the api will be called.
+checkingFrequency: 100
+
+# Lower limit for the temperature
+lowerLimit: -1
+
+# Upper limit for temperature
+upperLimit: 10
+
+# List of places to check
+places:
+  - Turku
+  - Helsinki
